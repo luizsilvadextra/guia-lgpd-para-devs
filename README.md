@@ -17,7 +17,7 @@ Os pontos chave da mudança são os seguintes:
 - Dados de uma pessoa não devem ser solicitados sem um bom motivo pra isso
 - Havendo um bom motivo o usuário deve ser avisado deste motivo. Essa justificativa deve estar clara
 - Aceitar compartilhar os dados não deve ser a opção padrão do usuário
-- Mesmo que uma pessoa aceite compartilhar seus dados ela deve conseguir enchergar quais dados a empresa possui sobre ela
+- Mesmo que uma pessoa aceite compartilhar seus dados ela deve conseguir enxergar quais dados a empresa possui sobre ela
 - Sabendo quais dados, a pessoa deve saber também qual a fonte das informações sobre ela
 - É necessário saber quando ela aceitou compartilhar seus dados
 - Uma vez que a empresa tem dados da pessoa, deve ser possível que a pessoa revogue o acesso a seus dados. Nesse caso a empresa deve apagar as informações da pessoa de seus sistemas
