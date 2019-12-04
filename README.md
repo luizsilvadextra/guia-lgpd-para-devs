@@ -9,8 +9,9 @@ A LGPD não é clara em alguns pontos. Por isso a GDPR é usada como referência
 
 `O Regulamento Geral sobre a Proteção de Dados 2016/679 é um regulamento do direito europeu sobre privacidade e proteção de dados pessoais, aplicável a todos os indivíduos na União Europeia e Espaço Económico Europeu que foi criado em 2018. Regulamenta também a exportação de dados pessoais para fora da UE e EEE.`
 
-[https://pt.wikipedia.org/wiki/Lei_Geral_de_Prote%C3%A7%C3%A3o_de_Dados_Pessoais]
-
+- [https://pt.wikipedia.org/wiki/Lei_Geral_de_Prote%C3%A7%C3%A3o_de_Dados_Pessoais
+- https://gdpr-info.eu/art-6-gdpr/
+- http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm
 
 # Direto ao Ponto - o que muda??
 Os pontos chave da mudança são os seguintes:
